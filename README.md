@@ -1,2 +1,2 @@
-# bestlang-bestmat
+# BestLang - BestMat
 A programming language written in JavaScript
