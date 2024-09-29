@@ -1,2 +1,2 @@
 # BestLang - BestMat
-A programming language written in JavaScript
+A small ineffecient programming language written in JavaScript :)
